@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/wmcw01-admin-parent.iml" filepath="$PROJECT_DIR$/wmcw01-admin-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wmcw02-admin-webui/wmcw02-admin-webui.iml" filepath="$PROJECT_DIR$/wmcw02-admin-webui/wmcw02-admin-webui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wmcw03-admin-component/wmcw03-admin-component.iml" filepath="$PROJECT_DIR$/wmcw03-admin-component/wmcw03-admin-component.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../wmcw05-common-util/wmcw05-common-util.iml" filepath="$PROJECT_DIR$/../wmcw05-common-util/wmcw05-common-util.iml" />
+    </modules>
+  </component>
+</project>

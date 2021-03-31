@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="wmcw02-admin-webui" />
+        <module name="wmcw05-common-util" />
+        <module name="wmcw03-admin-component" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="wmcw01-admin-parent" target="1.8" />
+      <module name="wmcw02-admin-webui" target="1.8" />
+      <module name="wmcw03-admin-component" target="7" />
+      <module name="wmcw05-common-util" target="7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
